@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoSample</string>
+    <string name="bt_add">項目を追加</string>
+
+    <string name="dialog_msg">選択された項目を削除してよろしいですか？</string>
+    <string name="dialog_btn_ok">削除</string>
+    <string name="dialog_btn_ng">キャンセル</string>
+
+    <string name="dialog_ok_toast">削除しました</string>
+    <string name="dialog_ng_toast">削除をキャンセルしました</string>
+</resources>
